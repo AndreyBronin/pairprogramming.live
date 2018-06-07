@@ -1,0 +1,53 @@
+baseurl = "http://pairprogramming.live"
+title = "Парное программирование живые трансляции"
+
+publishdir = "docs"
+theme = "hugo-coder"
+
+languagecode = "en"
+DefaultContentLanguage = "ru"
+languageCode = "ru-ru"
+
+googleAnalytics = "UA-114230346-2"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Pair programming live show"
+    description = ""
+    keywords = "programming,broadcasting,stream"
+    info = "information block"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+	custom_css = []
+
+[[params.social]]
+    name = "Twitch"
+    weight = 1
+    url = "https://twitch.tv"
+
+[[params.social]]
+    name = "Telegram"
+    weight = 2
+    url = "https://telegram.org"
+
+
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "/posts/"
+
+[[menu.main]]
+    name = "Manifest"
+    weight = 1
+    url = "/Manifest/"
