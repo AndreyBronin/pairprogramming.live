@@ -4,9 +4,7 @@ title = "Парное программирование живые трансля
 publishdir = "docs"
 theme = "hugo-coder"
 
-languagecode = "en"
-DefaultContentLanguage = "ru"
-languageCode = "ru-ru"
+DefaultContentLanguage = "en"
 
 googleAnalytics = "UA-114230346-2"
 
@@ -17,37 +15,67 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = ""
 
 [params]
     author = "Pair programming live show"
+    info = "information block"
     description = ""
     keywords = "programming,broadcasting,stream"
-    info = "information block"
 
-    hideCredits = false
-    hideCopyright = false
-
+    hideCredits = true
+    hideCopyright = true
     # Custom CSS
 	custom_css = []
 
 [[params.social]]
     name = "Twitch"
     weight = 1
-    url = "https://twitch.tv"
+    url = "https://www.twitch.tv/directory/game/Creative/programming"
 
 [[params.social]]
     name = "Telegram"
     weight = 2
     url = "https://telegram.org"
 
+[[params.social]]
+    name = "Github"
+    weight = 3
+    url = "https://github.com/AndreyBronin/pairprogramming.live"
 
 [[menu.main]]
-    name = "Blog"
-    weight = 2
-    url  = "/posts/"
+    name = "Home"
+    weight = 1
+    url = "/"
 
 [[menu.main]]
     name = "Manifest"
-    weight = 1
+    weight = 2
     url = "/Manifest/"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 3
+    url  = "/posts/"
+
+[Languages]
+[Languages.ru]
+    title = "#pairprogrammingshow"
+    weight = 2
+    languageName = "RU"
+[Languages.ru.params]
+    author = "Шоу парного программирования"
+    info = "Живые трансляции"
+    description = ""
+    keywords = "programming,broadcasting,stream"
+
+
+[Languages.en]
+    title = "#pairprogrammingshow"
+    weight = 1
+    languageName = "EN"
+[Languages.en.params]
+    author = "Pair programming live show"
+    info = "information block"
+    description = ""
+    keywords = "programming,broadcasting,stream"
