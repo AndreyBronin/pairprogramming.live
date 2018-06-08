@@ -69,6 +69,20 @@ disqusShortname = ""
     description = ""
     keywords = "programming,broadcasting,stream"
 
+[[Languages.ru.menu.main]]
+    url = "/"
+    name = "Главная"
+    weight = 1
+
+[[Languages.ru.menu.main]]
+    url = "/Manifest/"
+    name = "Манифест"
+    weight = 2
+
+[[Languages.ru.menu.main]]
+    url = "/posts/"
+    name = "Блог"
+    weight = 3
 
 [Languages.en]
     title = "#pairprogrammingshow"
