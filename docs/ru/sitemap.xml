@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://pairprogramming.live/ru/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://pairprogramming.live/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://pairprogramming.live/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://pairprogramming.live/ru/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://pairprogramming.live/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://pairprogramming.live/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://pairprogramming.live/ru/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://pairprogramming.live/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://pairprogramming.live/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://pairprogramming.live/ru/manifest/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://pairprogramming.live/manifest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://pairprogramming.live/ru/manifest/"
+                />
+  </url>
+  
+</urlset>
