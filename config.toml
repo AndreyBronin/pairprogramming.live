@@ -1,4 +1,4 @@
-baseurl = "http://pairprogramming.live"
+baseurl = "https://pairprogramming.live"
 title = "Парное программирование живые трансляции"
 
 publishdir = "docs"
