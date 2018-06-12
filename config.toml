@@ -59,6 +59,11 @@ disqusShortname = ""
     weight = 4
     url  = "/faq/"
 
+[[menu.main]]
+    name = "Tools"
+    weight = 5
+    url  = "/tools/"
+
 [Languages]
 [Languages.en]
     title = "pairprogramming.live"
@@ -102,3 +107,7 @@ disqusShortname = ""
     weight = 4
     url  = "/faq/"
 
+[[Languages.ru.menu.main]]
+    name = "Инструменты"
+    weight = 5
+    url  = "/tools/"

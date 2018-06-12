@@ -54,5 +54,14 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
 Three key point  maximu open development: not only source code, но и цели проекта, требования, архитектура, юзкейсы, юзер стори и т.п. большая часть разработки на стримах: брейнсторминг, обсуждение идей, проработка требований и архитектуры, кодирование, тестирование парное программирование идругие практики экстремального программирования, канбан  </description>
     </item>
     
+    <item>
+      <title>Tools</title>
+      <link>https://pairprogramming.live/en/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pairprogramming.live/en/tools/</guid>
+      <description> Broadcasting software  OBS Studio  Pair programming  Floobits  </description>
+    </item>
+    
   </channel>
 </rss>

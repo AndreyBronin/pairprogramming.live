@@ -95,6 +95,20 @@
   </url>
   
   <url>
+    <loc>https://pairprogramming.live/tools/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pairprogramming.live/en/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://pairprogramming.live/tools/"
+                />
+  </url>
+  
+  <url>
     <loc>https://pairprogramming.live/manifest/</loc>
     <xhtml:link
                 rel="alternate"

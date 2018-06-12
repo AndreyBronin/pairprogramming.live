@@ -107,6 +107,20 @@
   </url>
   
   <url>
+    <loc>https://pairprogramming.live/en/tools/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://pairprogramming.live/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pairprogramming.live/en/tools/"
+                />
+  </url>
+  
+  <url>
     <loc>https://pairprogramming.live/en/</loc>
     <lastmod>2018-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
