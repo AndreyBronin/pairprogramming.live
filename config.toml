@@ -1,10 +1,10 @@
 baseurl = "https://pairprogramming.live"
-title = "Парное программирование живые трансляции"
+title = "pairprogramming.live"
 
 publishdir = "docs"
 theme = "hugo-coder"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ru"
 
 googleAnalytics = "UA-114230346-2"
 
@@ -18,8 +18,9 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = ""
 
 [params]
-    author = "Pair programming live show"
-    info = "information block"
+    home_h1 = "Pair programming show"
+    home_h2 = "instead boring coding streams"
+    home_text = "Read our manifest"
     description = ""
     keywords = "programming,broadcasting,stream"
 
@@ -31,12 +32,7 @@ disqusShortname = ""
 [[params.social]]
     name = "Twitch"
     weight = 1
-    url = "https://www.twitch.tv/directory/game/Creative/programming"
-
-[[params.social]]
-    name = "Telegram"
-    weight = 2
-    url = "https://telegram.org"
+    url = "https://www.twitch.tv/directory/game/programming"
 
 [[params.social]]
     name = "Github"
@@ -58,14 +54,31 @@ disqusShortname = ""
     weight = 3
     url  = "/posts/"
 
+[[menu.main]]
+    name = "FAQ"
+    weight = 4
+    url  = "/faq/"
+
 [Languages]
+[Languages.en]
+    title = "pairprogramming.live"
+    weight = 1
+    languageName = "EN"
+[Languages.en.params]
+    home_h1 = "Let's develop open source projects in live show format"
+    home_h2 = "Down with boring coding live streams! Programming practice should be interesting and fun"
+    home_text = "Read our manifest"
+    description = ""
+    keywords = "programming,broadcasting,stream"
+
 [Languages.ru]
     title = "#pairprogrammingshow"
     weight = 2
     languageName = "RU"
 [Languages.ru.params]
-    author = "Шоу парного программирования"
-    info = "Живые трансляции"
+    home_h1 = "Разрабатывай открытые проекты в формате онлайн шоу"
+    home_h2 = "Долой скучные программерские стримы! Разработка должна быть интересной и доставлять удовольствие"
+    home_text = "Прочти наш манифест"
     description = ""
     keywords = "programming,broadcasting,stream"
 
@@ -84,12 +97,8 @@ disqusShortname = ""
     name = "Блог"
     weight = 3
 
-[Languages.en]
-    title = "#pairprogrammingshow"
-    weight = 1
-    languageName = "EN"
-[Languages.en.params]
-    author = "Pair programming live show"
-    info = "information block"
-    description = ""
-    keywords = "programming,broadcasting,stream"
+[[Languages.ru.menu.main]]
+    name = "ЧаВо"
+    weight = 4
+    url  = "/faq/"
+
