@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pairprogramming.live</title>
+    <link>https://pairprogramming.live/en/</link>
+    <description>Recent content on pairprogramming.live</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pairprogramming.live/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Card game</title>
+      <link>https://pairprogramming.live/en/posts/securitygame/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pairprogramming.live/en/posts/securitygame/</guid>
+      <description>Карточная игра про безопасность pvp game security awareness</description>
+    </item>
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>https://pairprogramming.live/en/posts/theme-demo/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pairprogramming.live/en/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://pairprogramming.live/en/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pairprogramming.live/en/faq/</guid>
+      <description>&amp;ndash;==&amp;ndash;=</description>
+    </item>
+    
+    <item>
+      <title>Manifest</title>
+      <link>https://pairprogramming.live/en/manifest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pairprogramming.live/en/manifest/</guid>
+      <description> This manifesto declares recommendations for the development of open source projects in online show format.
+Three key point  maximu open development: not only source code, но и цели проекта, требования, архитектура, юзкейсы, юзер стори и т.п. большая часть разработки на стримах: брейнсторминг, обсуждение идей, проработка требований и архитектуры, кодирование, тестирование парное программирование идругие практики экстремального программирования, канбан  </description>
+    </item>
+    
+  </channel>
+</rss>

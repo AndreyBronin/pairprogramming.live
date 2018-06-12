@@ -5,18 +5,27 @@
     <link>https://pairprogramming.live/</link>
     <description>Recent content on #pairprogrammingshow</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pairprogramming.live/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Theme Demo</title>
+      <title>Карточная игра</title>
+      <link>https://pairprogramming.live/posts/securitygame/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pairprogramming.live/posts/securitygame/</guid>
+      <description>Карточная игра про безопасность pvp game security awareness</description>
+    </item>
+    
+    <item>
+      <title>Демо</title>
       <link>https://pairprogramming.live/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pairprogramming.live/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+      <description>Демо h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
 This is italic text
@@ -27,12 +36,23 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     </item>
     
     <item>
-      <title>Manifest</title>
+      <title>Манифест</title>
       <link>https://pairprogramming.live/manifest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pairprogramming.live/manifest/</guid>
-      <description>Pair Programming Show Manifest text</description>
+      <description>Этот манифест декларирует рекомендации для разработки открытых проектов в формате онлайн шоу.
+ Зачем это мне зачем это зрителям  Три ключевых идеи  максимально открытая разработка регулярные живые трансляции парное программирование  Обучение программированию через практику, менторство, наблюдение за работой коллег. Живые трансляции по программированию захватывают аудиторию, но обычно скучные и унылые. Раздел Programming на Twitch.
+план стрима, жесткий тайминг  питч проекта на 3-5 минут от project owner план работы на сегодня 5-7 минут, таски в актив разработка по методике pomidorro 25\5 в перерывах отдых, ответы на вопросы подведение итогов, что сделали за стрим 15мин попросить фидбек от зрителей  little bit talk show</description>
+    </item>
+    
+    <item>
+      <title>Частые воросы</title>
+      <link>https://pairprogramming.live/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pairprogramming.live/faq/</guid>
+      <description>&amp;ndash;==&amp;ndash;=</description>
     </item>
     
   </channel>

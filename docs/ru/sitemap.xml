@@ -3,93 +3,122 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pairprogramming.live/ru/posts/theme-demo/</loc>
+    <loc>https://pairprogramming.live/posts/securitygame/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pairprogramming.live/en/posts/securitygame/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://pairprogramming.live/posts/securitygame/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pairprogramming.live/posts/theme-demo/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://pairprogramming.live/en/posts/theme-demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
                 href="https://pairprogramming.live/posts/theme-demo/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://pairprogramming.live/ru/posts/theme-demo/"
-                />
   </url>
   
   <url>
-    <loc>https://pairprogramming.live/ru/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <loc>https://pairprogramming.live/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://pairprogramming.live/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
                 href="https://pairprogramming.live/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://pairprogramming.live/ru/"
-                />
   </url>
   
   <url>
-    <loc>https://pairprogramming.live/ru/categories/</loc>
+    <loc>https://pairprogramming.live/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://pairprogramming.live/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
                 href="https://pairprogramming.live/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://pairprogramming.live/ru/categories/"
-                />
   </url>
   
   <url>
-    <loc>https://pairprogramming.live/ru/posts/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <loc>https://pairprogramming.live/posts/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://pairprogramming.live/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
                 href="https://pairprogramming.live/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://pairprogramming.live/ru/posts/"
-                />
   </url>
   
   <url>
-    <loc>https://pairprogramming.live/ru/tags/</loc>
+    <loc>https://pairprogramming.live/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pairprogramming.live/tags/"
+                href="https://pairprogramming.live/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://pairprogramming.live/ru/tags/"
+                href="https://pairprogramming.live/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://pairprogramming.live/ru/manifest/</loc>
+    <loc>https://pairprogramming.live/manifest/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pairprogramming.live/manifest/"
+                href="https://pairprogramming.live/en/manifest/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://pairprogramming.live/ru/manifest/"
+                href="https://pairprogramming.live/manifest/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pairprogramming.live/faq/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pairprogramming.live/en/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://pairprogramming.live/faq/"
                 />
   </url>
   
